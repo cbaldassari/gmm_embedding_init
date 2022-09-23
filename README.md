@@ -1,4 +1,6 @@
-# Graph Machine Learning for  EM Initialization: a study on US Wholesale Electricity Markets
+# A graph-based Superframework for Mixture
+Model estimation using EM. An analysis of
+US wholesale electricity markets.
 
 by
 Carlo Mari,
